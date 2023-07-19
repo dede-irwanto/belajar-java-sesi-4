@@ -17,5 +17,7 @@ public class StringApp {
         for (var value : names) {
             System.out.println(value);
         }
+
+        System.out.println(name.charAt(0));
     }
 }
